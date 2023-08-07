@@ -23,7 +23,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"dbaeumer.vscode-eslint"
+				"dbaeumer.vscode-eslint",
+				"ioanaapetrei.backbone-js-snippets"
 			]
 		}
 	}
